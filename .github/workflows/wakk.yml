@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: wakk_daily_job
 
 # Controls when the workflow will run
 on:
@@ -34,3 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.0.0-rc.2
