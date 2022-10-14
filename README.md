@@ -28,7 +28,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wakk3107/count.svg
 [![](https://raw.githubusercontent.com/iamazy/iamazy/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/wakk3107)
 [![](https://raw.githubusercontent.com/iamazy/iamazy/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/wakk3107)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/iamazy/iamazy/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/wakk3107/wakk3107/output/github-contribution-grid-snake.svg)
 <br/>  
 
 
