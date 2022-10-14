@@ -24,15 +24,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wakk3107/count.svg
 
 # About My Github
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakk3107&layout=compact&langs_count=8&theme=cobalt)](https://github.com/wakk3107/github-readme-stats)
+[![](https://raw.githubusercontent.com/iamazy/iamazy/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/wakk3107)  
+[![](https://raw.githubusercontent.com/iamazy/iamazy/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/wakk3107)
+[![](https://raw.githubusercontent.com/iamazy/iamazy/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/wakk3107)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=wakk3107&show_icons=true&theme=cobalt)](https://github.com/wakk3107/github-readme-stats)-->
-
-<div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakk3107&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=wakk3107&show_icons=true&theme=cobalt" align="center" />
-</div>  
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/iamazy/iamazy/output/github-contribution-grid-snake.svg)
 <br/>  
 
 
