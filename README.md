@@ -11,7 +11,6 @@
 - 📍   天津(TJ).
 - 👨‍🎓   TUST.
 - 👩‍💻  2 years of CS Learning .
-- 🎖️  5 years in the army.
 - 📧  [chenyulin3107@163.com](chenyulin3107@163.com).
 <br/>
 <br/>
