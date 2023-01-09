@@ -27,7 +27,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wakk3107/count.svg
 [![](https://raw.githubusercontent.com/wakk3107/wakk3107/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wakk3107/wakk3107/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/wakk3107/wakk3107/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wakk3107/wakk3107/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/wakk3107/wakk3107/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/wakk3107/wakk3107/blob/output/github-contribution-grid-snake.svg)
 <br/>  
 
 
