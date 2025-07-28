@@ -25,6 +25,16 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/wakk3107/wakk3107/main/profile-summary-card-output/jolly/2-most-commit-language.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
